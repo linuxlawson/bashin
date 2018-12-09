@@ -1,9 +1,10 @@
 # bashpass
-Password prompt to access terminal (just for looks, doesnt actually secure anything).  
+Password prompt to access terminal (just for looks, doesn't actually secure anything).  
 
-Code to be placed in .bashrc  
+place code in .bashrc file    
 
 current password = pencil (change accordingly)  
+comment out username if not needed
 
 
 
