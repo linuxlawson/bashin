@@ -1,5 +1,5 @@
 # bashpass
-Password prompt to access terminal (just for looks, doesn't actually secure anything).  
+Password prompt to access terminal (just for looks, doesn't actually lock anything).  
 
 place code in .bashrc file    
 
