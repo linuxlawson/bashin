@@ -3,8 +3,8 @@ Password prompt to access terminal (just for looks, doesn't actually prevent any
 
 to be placed in .bashrc file    
 
-current password = pencil (change accordingly)  
-comment out username/greeting if not needed  
+Current password = pencil (change to whatever).  
+Comment out username/greeting if not needed/wanted.  
 
 ==============================================  
   
