@@ -15,3 +15,5 @@ else
 echo "Goodbye"  
 sleep 2  
 exit  
+
+Only works in/from .bashrc  
