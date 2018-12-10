@@ -1,5 +1,5 @@
 # bashpass
-Password prompt to access terminal - just for looks, doesn't actually prevent anything.  
+Password prompt to access terminal - (just for looks, doesn't actually prevent anything).  
 
 to be placed in .bashrc file    
 
