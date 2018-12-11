@@ -12,7 +12,7 @@ Username/greeting can be commented out if not needed/wanted.
   
   
 bashout -  
-Same as above but terminal will close (exit) after two failed password attempts.  
+Same thing but terminal will close (exit) after two failed password attempts.  
 
 
-This only works in/from .bashrc  
+This only works when code is placed in .bashrc  
