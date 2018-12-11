@@ -1,5 +1,7 @@
-# bashpass
-Password prompt to access terminal - (just for looks, doesn't actually prevent anything).  
+# bashpass  
+
+bashin -    
+Password prompt to enter terminal - (just for looks, doesn't actually prevent anything).  
 
 to be placed in .bashrc file    
 
@@ -9,12 +11,8 @@ Username/greeting can be commented out if not needed/wanted.
 ==============================================  
   
   
-Note: 'exit' command can be placed after 2nd failed password attempt in order to close (exit) terminal.  
+bashout -  
+Same as above but terminal will close (exit) after two failed password attempts.  
 
-i.e.      
-else  
-echo "Goodbye"  
-sleep 2  
-exit  
 
 This only works in/from .bashrc  
