@@ -3,7 +3,7 @@
 bashin -    
 Password prompt to enter terminal - (just for looks, doesn't actually prevent anything).  
 
-to be placed in .bashrc file    
+place code in .bashrc file    
 
 Current password = pencil (change to whatever).  
 Username/greeting can be commented out if not needed/wanted.  
