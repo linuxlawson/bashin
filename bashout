@@ -1,5 +1,5 @@
 #!/bin/bash
-#password prompt to access terminal (just for looks, not really secure)
+#password prompt to access terminal (exits terminal after 2 failed password attempts)
 #to be placed in .bashrc
 #current password = pencil (change to whatever)
 #comment out username/greeting if not needed 
