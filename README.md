@@ -1,6 +1,5 @@
-# bashpass  
+# bashin  
 
-bashin -    
 Password prompt to enter terminal - (just for looks, doesn't actually prevent anything).  
 
 place code in .bashrc file    
