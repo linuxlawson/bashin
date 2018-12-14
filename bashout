@@ -32,13 +32,12 @@ echo
     then printf "\nGood answer. "
 echo
     else echo 
-echo "Wrong answer. Goodbye. "
+echo "Nice try, Goodbye. "
 sleep 1.5
 exit
    fi
  fi
 
-sleep 0.5
 echo
 echo
 
