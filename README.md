@@ -7,10 +7,10 @@ place code in .bashrc file
 Current password = pencil (change to whatever).  
 Username/greeting can be commented out if not needed/wanted.  
 
-==============================================  
+-------------------------------------------------------------  
   
   
-bashout -  
+# bashout   
 Same thing but terminal will close (exit) after two failed password attempts.  
 
 
