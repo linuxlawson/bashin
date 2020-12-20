@@ -1,4 +1,4 @@
-# bashin  
+## bashin  
 
 Password prompt to enter linux terminal - (just for looks, doesn't actually prevent anything).  
 
@@ -10,7 +10,7 @@ Username/greeting can be commented out if not needed/wanted.
 -------------------------------------------------------------  
   
   
-# bashout   
+## bashout   
 Same thing but terminal will close (exit) after two failed password attempts.  
 
 
