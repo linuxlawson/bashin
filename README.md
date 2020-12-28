@@ -1,6 +1,7 @@
 ## bashin  
 
-Password prompt to access linux terminal  (just for looks, doesn't actually prevent anything).  
+Password prompt to access linux terminal  
+Just for looks, doesn't actually prevent anything.  
 
 place code in .bashrc file    
 
